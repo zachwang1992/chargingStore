@@ -1,0 +1,6 @@
+org.everon.evbox.chargingstore.chargingservice
+org.everon.evbox.chargingstore.database
+org.everon.evbox.chargingstore.exceptions
+org.everon.evbox.chargingstore.models
+org.everon.evbox.chargingstore.resources
+org.everon.evbox.chargingstore.test
